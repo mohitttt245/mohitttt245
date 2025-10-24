@@ -10,8 +10,7 @@
 ### 💫 About Me:
 🎓 I'm a **B.Sc. Computer Science** student at **Dyal Singh College, University of Delhi**  
 💻 Recently worked as a **Web Development Intern** at **Jaipur Metro Rail Corporation (JMRC)**  
-🚆 Built a **Smart Complaint Management System** to digitalize metro passenger grievance handling  
-💡 I love working on **Web & Android Development**, and exploring **C++**, **DBMS**, and **ML** concepts  
+💡 I love working on **Development**, and exploring **C++**, **DBMS**, and **ML** concepts  
 🌱 Currently learning **Full Stack Development** & **Kotlin**  
 ⚡ Fun fact: I debug more than I code 😅  
 
@@ -41,11 +40,6 @@
 ✅ Real-time status tracking  
 ✅ Responsive design  
 
-#### 💻 CPUSim – CPU Simulator
-> A simple CPU simulation that models instruction execution and register operations.  
-> **Language:** C++  
-✅ Simulates Fetch–Decode–Execute cycles  
-✅ Focused on understanding CPU architecture  
 
 ---
 
